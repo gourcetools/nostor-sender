@@ -17,3 +17,4 @@ sudo service tor restart
 echo "Let tor restart."
 sleep 3
 echo "OK."
+./nostor-sender.sh
