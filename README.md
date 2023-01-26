@@ -1,5 +1,5 @@
 # 🧅 nostor-sender
- Send nostr events in CLI using tor
+ This script ask for a message to send to nostr and then restart tor.
  
  
 ![image](https://user-images.githubusercontent.com/120996278/214901058-f4eccc4a-f9f5-4806-8869-94c6d6741554.png)
